@@ -3,10 +3,10 @@ from telegram.ext import CallbackContext, CallbackQueryHandler, CommandHandler, 
 import sqlite3
 import datetime
 
-TOKEN = "6359230583:AAEUNuMF2esZNbgOJZmx2VxEOxPLis6Ek5w"
-admin_id = "1116569058"
-admin_username = "Jekizzz_z"
-channel_id = "-992636746"
+TOKEN = "60583:AAEUNuMF2esZNbgOJZmx2VxEOxPLis6Ek5w"
+admin_id = "111656"
+admin_username = "z_z"
+channel_id = "-96746"
 draw_id = 0
 last_message_id = None
 participant_count = 0
